@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/jlotery/hello-world/compare/v1.0.1...v1.0.2) (2022-08-02)
+
+
+### Bug Fixes
+
+* release file broken ([e7fdd07](https://github.com/jlotery/hello-world/commit/e7fdd074468f24c352cf23e8a82812bb42740a12))
+* too many alerts ([f154c88](https://github.com/jlotery/hello-world/commit/f154c88f672864a08329bee830192253b141019e))
+* update commit file ([d8a1c4e](https://github.com/jlotery/hello-world/commit/d8a1c4ecb648d66f9339816bb256f62751a188dd))
+
 ## [1.0.1](https://github.com/jlotery/hello-world/compare/v1.0.0...v1.0.1) (2022-08-02)
 
 
