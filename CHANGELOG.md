@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/jlotery/hello-world/compare/v1.0.2...v1.0.3) (2022-08-02)
+
+
+### Bug Fixes
+
+* needed a confirmation ([571c32c](https://github.com/jlotery/hello-world/commit/571c32c7d6fdb294118777e9202ad47b2511fbe8))
+
 ## [1.0.2](https://github.com/jlotery/hello-world/compare/v1.0.1...v1.0.2) (2022-08-02)
 
 
