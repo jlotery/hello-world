@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/jlotery/hello-world/compare/v1.0.0...v1.0.1) (2022-08-02)
+
+
+### Bug Fixes
+
+* updated package name ([8534d1f](https://github.com/jlotery/hello-world/commit/8534d1fe22ea7c068014d354b4adbcf68445b4a9))
+
 # 1.0.0 (2022-08-02)
 
 
